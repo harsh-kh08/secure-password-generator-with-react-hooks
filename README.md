@@ -16,7 +16,8 @@ A simple and efficient password generator built using React and various hooks li
 
 ## Demo
 
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](secure-password-generator-with-react-hooks.vercel.app
+).
 
 ## Features
 
